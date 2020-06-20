@@ -1,0 +1,1 @@
+I have been inactive for a bit because I started a new job, so this was just a practice project to stay updated on using django and react.
